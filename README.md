@@ -15,7 +15,7 @@ My journey in information security
 | Honeypot         | <a href="https://github.com/Donella365/Building-a-Honeypot">Building a Honeypot</a>|
 | Vulnerability Management      | <a href="https://github.com/Donella365/Vulnerability-Management">Vulnerability Management</a>|
 | Awareness & Training                 | <a href="https://github.com/Donella365/Awareness-Training/tree/main">Awareness & Training</a>|
-| Scripting and Automation for Threat Mitigation | <a href="https://github.com/Donella365/Building-a-Honeypot/blob/main/README.md">Building a Honeypot</a>|
+| Scripting and Automation for Threat Mitigation | <a href="https://github.com/Donella365/Building-a-Honeypot">Building a Honeypot</a>|
 
 ## Tools
 
@@ -50,5 +50,9 @@ My journey in information security
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- <a href="https://github.com/Donella365/Virtual-Home-Network">Virtual Home Network</a>
+- <a href="https://github.com/Donella365/Network-Traffic-Analysis/tree/main">Network Traffic Analysis</a>
+- <a href="https://github.com/Donella365/Building-a-Honeypot">Building a Honeypot</a>
+- <a href="https://github.com/Donella365/Vulnerability-Management">Vulnerability Management</a>
+- <a href="https://github.com/Donella365/Awareness-Training/tree/main">Awareness & Training</a>
+- <a href="https://github.com/Donella365/Building-a-Honeypot">Building a Honeypot</a>
