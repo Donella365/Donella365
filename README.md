@@ -7,7 +7,6 @@ I'm a driven individual with a profound interest in information security and a d
 My journey in information security
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -19,7 +18,6 @@ My journey in information security
 | Scripting and Automation for Threat Mitigation | <a href="https://github.com/Donella365/Building-a-Honeypot/blob/main/README.md">Building a Honeypot</a>|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
