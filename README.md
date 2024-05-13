@@ -46,7 +46,6 @@ My journey in information security
 <img src="https://img.shields.io/badge/-ISC2%20Certified%20in%20Cybersecurity%20(CC)-003366?&style=for-the-badge&logo=ISC2&logoColor=white" />
 <img src="https://img.shields.io/badge/-Infosec%20Skills%20Threat%20Intelligence-ED1C24?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google%20IT%20Support%20Professional-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/-Private%20Security%20Service%20Registration%20(Individual)-00205B?&style=for-the-badge&logoColor=white" />
 </div>
 
 ## Projects
