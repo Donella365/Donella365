@@ -11,12 +11,12 @@ My journey in information security
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Networking & System Architecture | <a href="https://github.com/Donella365/Virtual-Home-Network">Virtual Home Network</a>|
+| Network Traffic Analysis and Attack Detection | <a href="https://github.com/Donella365/Network-Traffic-Analysis/tree/main">Network Traffic Analysis</a>|
+| Honeypot         | <a href="https://github.com/Donella365/Building-a-Honeypot">Building a Honeypot</a>|
+| Vulnerability Management      | <a href="https://github.com/Donella365/Vulnerability-Management">Vulnerability Management</a>|
+| Awareness & Training                 | <a href="https://github.com/Donella365/Awareness-Training/tree/main">Awareness & Training</a>|
+| Scripting and Automation for Threat Mitigation | <a href="https://github.com/Donella365/Building-a-Honeypot/blob/main/README.md">Building a Honeypot</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
