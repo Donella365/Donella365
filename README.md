@@ -15,7 +15,7 @@ My journey in information security
 | Honeypot         | <a href="https://github.com/Donella365/Building-a-Honeypot">Building a Honeypot</a>|
 | Vulnerability Management      | <a href="https://github.com/Donella365/Vulnerability-Management">Vulnerability Management</a>|
 | Awareness & Training                 | <a href="https://github.com/Donella365/Awareness-Training/tree/main">Awareness & Training</a>|
-| Scripting and Automation for Threat Mitigation | <a href="https://github.com/Donella365/Building-a-Honeypot">Building a Honeypot</a>|
+| Dynamic Application Security Testing | <a href="https://github.com/Donella365/DAST/tree/main">DAST</a>|
 
 ## Tools
 ### Virtualization
@@ -59,3 +59,4 @@ My journey in information security
 - <a href="https://github.com/Donella365/Vulnerability-Management">Vulnerability Management</a>
 - <a href="https://github.com/Donella365/Awareness-Training/tree/main">Awareness & Training</a>
 - <a href="https://github.com/Donella365/Building-a-Honeypot">Building a Honeypot</a>
+- <a href="https://github.com/Donella365/DAST/tree/main">DAST</a>
