@@ -12,12 +12,7 @@ Document my journey in information security.
 |-----------------------------------------------|----------------------------|
 | Secure Remote Access / VPN | <a href=""> WireGuard VPN</a>
 | Secure Network Architecture - Micro-segmentation using VXLANs | <a href="https://github.com/Donella365/vxlan-microsegmentation">Micro-segmentation using VXLANs</a>|
-| Networking & System Architecture | <a href="https://github.com/Donella365/Virtual-Home-Network">Virtual Home Network</a>|
-| Network Traffic Analysis and Attack Detection | <a href="https://github.com/Donella365/Network-Traffic-Analysis/tree/main">Network Traffic Analysis</a>|
-| Honeypot         | <a href="https://github.com/Donella365/Building-a-Honeypot">Building a Honeypot</a>|
-| Vulnerability Management      | <a href="https://github.com/Donella365/Vulnerability-Management">Vulnerability Management</a>|
-| Awareness & Training                 | <a href="https://github.com/Donella365/Awareness-Training/tree/main">Awareness & Training</a>|
-| Dynamic Application Security Testing | <a href="https://github.com/Donella365/DAST/tree/main">DAST</a>|
+
 
 ## Tools
 ### Virtualization
