@@ -10,6 +10,7 @@ Document my journey in information security.
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Secure Remote Access / VPN | <a href=""> WireGuard VPN</a>
 | Secure Network Architecture - Micro-segmentation using VXLANs | <a href="https://github.com/Donella365/vxlan-microsegmentation">Micro-segmentation using VXLANs</a>|
 | Networking & System Architecture | <a href="https://github.com/Donella365/Virtual-Home-Network">Virtual Home Network</a>|
 | Network Traffic Analysis and Attack Detection | <a href="https://github.com/Donella365/Network-Traffic-Analysis/tree/main">Network Traffic Analysis</a>|
