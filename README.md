@@ -49,11 +49,4 @@ Document my journey in information security.
 <img src="https://img.shields.io/badge/-Google%20IT%20Support%20Professional-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
 </div>
 
-## Projects
-- <a href="https://github.com/Donella365/Virtual-Home-Network">Virtual Home Network</a>
-- <a href="https://github.com/Donella365/Network-Traffic-Analysis/tree/main">Network Traffic Analysis</a>
-- <a href="https://github.com/Donella365/Building-a-Honeypot">Building a Honeypot</a>
-- <a href="https://github.com/Donella365/Vulnerability-Management">Vulnerability Management</a>
-- <a href="https://github.com/Donella365/Awareness-Training/tree/main">Awareness & Training</a>
-- <a href="https://github.com/Donella365/Building-a-Honeypot">Building a Honeypot</a>
-- <a href="https://github.com/Donella365/DAST/tree/main">DAST</a>
+
