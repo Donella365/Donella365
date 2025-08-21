@@ -1,10 +1,10 @@
 # Hello, I'm Donella!
 <a href="https://www.linkedin.com/in/donella-q/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm a driven individual with a profound interest in information security and a dedication to solving problems.
+I'm a driven individual with a profound interest in information security.
 
 ## Objective
-My journey in information security
+Document my journey in information security.
 
 ## Skills
 
