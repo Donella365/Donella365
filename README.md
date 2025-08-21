@@ -4,7 +4,7 @@
 I'm a driven individual with a profound interest in information security.
 
 ## Objective
-Document my journey in information security.
+Document my information security projects.
 
 ## Skills
 
