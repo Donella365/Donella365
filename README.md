@@ -1,9 +1,6 @@
 # Hello, I'm Donella!
 <a href="https://www.linkedin.com/in/donella-q/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-## Objective
-Document my information security projects.
-
 ## Skills
 
 | Skill                                         | Associated Project         |
