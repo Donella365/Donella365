@@ -6,7 +6,7 @@
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Secure Remote Access / VPN | <a href="https://github.com/Donella365/WireGuard-VPN"> WireGuard VPN</a>
-| Secure Network Architecture - Micro-segmentation using VXLANs | <a href="https://github.com/Donella365/vxlan-microsegmentation">Micro-segmentation using VXLANs</a>|
+| Secure Network Architecture - Micro-segmentation using Firewalls | <a href="https://github.com/Donella365/Firewall-Micro-segmentation-"</a>|
 
 
 ## Tools
