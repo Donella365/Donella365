@@ -27,8 +27,6 @@
 <img src="https://img.shields.io/badge/-Associate%20of%20ISC2-5B92E5?&style=for-the-badge&logo=ISC2&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-ISC2%20Certified%20in%20Cybersecurity%20(CC)-003366?&style=for-the-badge&logo=ISC2&logoColor=white" />
-<img src="https://img.shields.io/badge/-Infosec%20Skills%20Threat%20Intelligence-ED1C24?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-Google%20IT%20Support%20Professional-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
 </div>
 
 
