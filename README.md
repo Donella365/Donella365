@@ -1,4 +1,4 @@
-# Hello, I'm Donella!
+# Hello, I'm Donella
 
 ## Skills
 
