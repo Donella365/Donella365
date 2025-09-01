@@ -1,6 +1,6 @@
 # WELCOME
 
-## Skills
+## Skills & Projects
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
