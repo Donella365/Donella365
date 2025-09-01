@@ -1,4 +1,4 @@
-# MY PROJECTS:
+# PROJECTS:
 
 ## Skills
 
