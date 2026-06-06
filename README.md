@@ -8,7 +8,6 @@
 | Automated Remediation | <a href="https://github.com/Donella365/Network-Segmentation-Monitoring-"> Automated Remediation using Lambda</a>
 | Detection Pipeline | <a href="https://github.com/Donella365/Network-Segmentation-Monitoring-"> Cloudtrail + SIEM</a>
 | IAM Security & Automation  | <a href="https://github.com/Donella365/Network-Segmentation-Monitoring-"> Automated IAM audit using python</a>
-
 | Secure Remote Access / VPN | <a href="https://github.com/Donella365/WireGuard-VPN"> WireGuard VPN</a>
 | Secure Network Architecture - Micro-segmentation using Firewalls | <a href="https://github.com/Donella365/Firewall-Micro-segmentation"> Firewall Micro-segmentation</a>|
 | Network Segmentation & Monitoring | <a href="https://github.com/Donella365/Network-Segmentation-Monitoring-"> Network Segmentation & Monitoring</a>
