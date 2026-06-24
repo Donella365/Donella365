@@ -4,6 +4,7 @@
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Windows Server Administration & Active Directory | <a href="(https://github.com/Donella365/azure-active-directory-lab)"> Azure Active Directory Domain Services Lab</a>
 | IAM Security & Automation  | <a href="https://github.com/Donella365/Network-Segmentation-Monitoring-"> Automated IAM audit using python</a>
 | Detection Pipeline | <a href="https://github.com/Donella365/Network-Segmentation-Monitoring-"> Cloudtrail + SIEM</a>
 | Automated Remediation | <a href="https://github.com/Donella365/Network-Segmentation-Monitoring-"> Automated Remediation using Lambda</a>
