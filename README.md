@@ -14,7 +14,6 @@
 | Secure Remote Access / VPN | <a href="https://github.com/Donella365/WireGuard-VPN"> WireGuard VPN</a>
 | Secure Network Architecture - Micro-segmentation using Firewalls | <a href="https://github.com/Donella365/Firewall-Micro-segmentation"> Firewall Micro-segmentation</a>|
 | Network Segmentation & Monitoring | <a href="https://github.com/Donella365/Network-Segmentation-Monitoring-"> Network Segmentation & Monitoring</a>
-| Endpoint Security - Defense in Depth | <a href="https://github.com/Donella365/Endpoint-Security-Defense-in-Depth"> Endpoint Security - Defense in Depth
 
 
 ## Tools
