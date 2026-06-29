@@ -5,7 +5,7 @@
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Windows Server Administration & Active Directory | [Azure Active Directory Domain Services Lab](https://github.com/Donella365/azure-active-directory-lab) |
-| Network Traffic Analysis & Packet Capture | [Wireshark Network Analysis][(https://github.com/Donella365/azure-active-directory-lab](https://github.com/Donella365/wireshark-network-analysis/blob/main/README.md)) |
+| Network Traffic Analysis & Packet Capture | [Wireshark Network Analysis](https://github.com/Donella365/wireshark-network-analysis/blob/main/README.md) |
 | IAM Security & Automation  | <a href="https://github.com/Donella365/Network-Segmentation-Monitoring-"> Automated IAM audit using python</a>
 | Detection Pipeline | <a href="https://github.com/Donella365/Network-Segmentation-Monitoring-"> Cloudtrail + SIEM</a>
 | Automated Remediation | <a href="https://github.com/Donella365/Network-Segmentation-Monitoring-"> Automated Remediation using Lambda</a>
